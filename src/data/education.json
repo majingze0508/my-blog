@@ -1,0 +1,43 @@
+[
+  {
+    "college": "Vanier College",
+    "degree": "AEC",
+    "majors": "Software Application Specialist",
+    "time": "2017.01 - 2018.03",
+    "majorCourse": [
+      "Java",
+      "Database",
+      "Data Structural",
+      "JavaScript",
+      "C++",
+      "C#"
+    ]
+  },
+  {
+    "college": "Kristianstad University, Kristianstad, Sweden",
+    "degree": "Master",
+    "majors": "Digital Communication Design",
+    "time": "2005.09 – 2007.07",
+    "majorCourse": [
+      "Real-time Programing",
+      "Embedded System",
+      "Data Encryption and Transmission",
+      "OOP Programing",
+      "Unix Programing"
+    ]
+  },
+  {
+    "college": "Xi'an University of Technology, Xi’an, China",
+    "degree": "Bachelor",
+    "majors": "Information system and management",
+    "time": "2001.09 – 2005.07",
+    "majorCourse": [
+      "C",
+      "Data Structural",
+      "Database",
+      "algorithm",
+      "Microcomputer principle",
+      "Information Management"
+    ]
+  }
+]

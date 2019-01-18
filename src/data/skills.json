@@ -1,0 +1,67 @@
+[
+  {
+    "name": "JavaScript",
+    "rate": "90%",
+    "color": "#007bff"
+  },
+  {
+    "name": "HTML5",
+    "rate": "90%",
+    "color": "#ec5453"
+  },
+  {
+    "name": "CSS3",
+    "rate": "90%",
+    "color": "#f9bf3f"
+  },
+  {
+    "name": "ES6",
+    "rate": "80%",
+    "color": "#a84cb8"
+  },
+  {
+    "name": "React.js",
+    "rate": "70%",
+    "color": "#2fa499"
+  },
+  {
+    "name": "Bootstrap",
+    "rate": "80%",
+    "color": "#4054b2"
+  },
+  {
+    "name": "jQuery",
+    "rate": "90%",
+    "color": "#FF00FF"
+  },
+  {
+    "name": "mongoDB",
+    "rate": "80%",
+    "color": "#00FFFF"
+  },
+  {
+    "name": "Node.js",
+    "rate": "90%",
+    "color": "#008000"
+  },
+  {
+    "name": "Git",
+    "rate": "90%",
+    "color": "#008080"
+  },
+  {
+    "name": "Selenium",
+    "rate": "90%",
+    "color": "#CD5C5C"
+  },
+  {
+    "name": "Perl",
+    "rate": "70%",
+    "color": "#ADFF2F"
+  },
+  {
+    "name": "MySQL",
+    "rate": "70%",
+    "color": "#FF1493"
+  }
+]

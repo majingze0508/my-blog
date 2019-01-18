@@ -1,0 +1,18 @@
+.about{
+  background: url('../images/about.jpg') no-repeat center center fixed #000; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  margin: 0;
+  padding: 10px;
+  h1 {
+    margin: 20px;
+  }
+  article {
+    display: block;
+    margin: 50px 0 0 20px;
+  }
+}

@@ -1,0 +1,4 @@
+export default {
+  SEND_MAIL_RESULT: 'SEND_MAIL_RESULT',
+  FETCH_WEATHER: 'FETCH_WEATHER'
+}

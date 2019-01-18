@@ -1,0 +1,46 @@
+.sidebar {
+  padding-top: 3em;
+  padding-bottom: 40px;
+  float: left;
+  z-index: 1001;
+  background: #f2f3f7;
+  transition: 0.5s;
+  height: 100vh;
+}
+.text-center{
+  text-align: center;
+}
+.sidebar-logo {
+  font-weight: 700;
+  font-size: 22px;
+  margin-bottom: .5em;
+  display: block;
+  width: 100%;
+  font-family: "Playfair Display", Georgia, serif;
+  margin: 0 0 30px 0;
+}
+.navbar {
+  position: relative;
+  min-height: 55px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+  width: 100%;
+  .collapse {
+    display: block;
+    ul {
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      li {
+        margin: 0 0 10px 0;
+        padding: 0;
+        list-style: none;
+        font-size: 12px;
+        font-weight: 500;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+      }
+    }
+  }
+}

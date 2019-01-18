@@ -1,0 +1,35 @@
+.contact {
+  h1 {
+    margin: 10px 0px 20px 10px;
+  }
+  .row {
+    margin-left: 10px;
+  }
+  .contact-item {
+    text-align: left;
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+    position: relative;
+  }
+  .contact-icon-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: table;
+    background-color: #f2f3f7;
+    text-align: center;
+    height: 100px;
+    width: 100px;
+  }
+  .contact-text {
+    margin-top: 30px;
+    padding-left: 120px; 
+  }
+  input {
+    background-color: #f2f3f7;
+  }
+  textarea {
+    background-color: #f2f3f7;
+  }
+}

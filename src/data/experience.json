@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Dynamicly Inc.",
+    "position": "Web Application Developer",
+    "time": "2018.05 - ",
+    "responsibilities": [
+      "Develop back-end with node.js, MongoDB, dynamoDB, Redis",
+      "Develop front-end with React.js, Webpack, Redux",
+      "The docker configuration",
+      "Develop voice speech recognition by Microsoft Azure and Google Speech Api",
+      "Maintained the GitLab repository",
+      "Deploy project on AWS EC2",
+      "Code Review",
+      "Auto testing with mocha, Selenium. Enzyme, Sinon, Artillery.io, istanbul"
+    ]
+  },
+  {
+    "company": "Nuance Communicates Inc.",
+    "position": "Software Developer Intern",
+    "time": "2018.1 – 2018.4",
+    "responsibilities": [
+      "Completed the auto testing on the front-end with Selenium, back-end with Mocha",
+      "The docker configuration",
+      "Participated in the back-end development with node.js, MongoDB",
+      "Maintained the Git repository",
+      "Participated front-end develop with React.js"
+    ]
+  },
+  {
+    "company": "Fuji Xerox Industry Development Co. Ltd. Shanghai, China",
+    "position": "Web Developer",
+    "time": "2011.11 – 2015.5",
+    "responsibilities": [
+      "Designed the front-end page with HTML5 and CSS",
+      "Accomplished the UI interaction development",
+      "Participated in the back-end development with node.js, set up the express server, developed socket communication and RDF database application",
+      "Completed the auto testing on the front-end with Selenium, back-end with Mocha",
+      "Maintained the Git repository",
+      "Participated in the new employee training",
+      "Responsible for the documentation management"
+    ]
+  },
+  {
+    "company": "ChinaSoft Resources Information & Technology Service Co., Shanghai, China",
+    "position": "Software Engineer",
+    "time": "2010.08 – 2011.11",
+    "responsibilities": [
+      "Developed a tool to control PLC pin and light ON/OFF functionality",
+      "Created a tool to export data from excel and used the data to command Matlab functions",
+      "Completed Simulink modules to simulate windmill operations"
+    ]
+  },
+  {
+    "company": "Jocoo Information technology Co., Ltd., Shanghai, China",
+    "position": "Software Engineer",
+    "time": "2009.07 – 2010.08",
+    "responsibilities": [
+      "Accomplished the UI interaction development",
+      "Developed the system and customized printer with C#",
+      "Maintained Git repository",
+      "Participated in the new employee training",
+      "Responsible to the documentation management"
+    ]
+  },
+  {
+    "company": "CASIO software (Shanghai) Co., Ltd. Shanghai, China",
+    "position": "Software Engineer",
+    "time": "2007.10 – 2009.07",
+    "responsibilities": [
+      "Developed electronic dictionary history, sound, UI, data import and key search functionality",
+      "Accomplished the UI interaction development",
+      "Exported text data from text file and generated html files with these data",
+      "Completed text data encryption",
+      "Maintained SVN repository",
+      "Reviewed codes and development documentation from other members"
+    ]
+  }
+]

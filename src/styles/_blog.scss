@@ -1,0 +1,25 @@
+.blog {
+  h1 {
+    margin: 10px 0px 30px 10px;
+  }
+  .row {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .desc {
+    span {
+      font-size: 12px;
+      text-transform: uppercase;
+      color: #999999;
+      letter-spacing: 1px;
+      font-weight: 400;
+    }
+    h5 {
+      margin-top: 30px;
+      margin-bottom: 25px;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+      font-family: Arial, sans-serif;
+    }
+  }
+}

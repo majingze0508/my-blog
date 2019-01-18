@@ -1,0 +1,17 @@
+.home{
+  background: url('../images/home.jpg') no-repeat center center fixed #000; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  h1 {
+    margin: 20px;
+  }
+}
